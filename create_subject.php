@@ -40,6 +40,6 @@
 	}else
 		echo "<p>Mysql query error!</p>";
 		echo "<p>". mysql_error() . "</p>";	
-
+//
 ?>
 <?php mysql_close() ?>
